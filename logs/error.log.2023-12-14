@@ -1,0 +1,2 @@
+[2023-12-14T11:45:02.446Z] [[31merror[39m] [URL: /api/v1.0/post] [Method: POST] [Message: Internal Server Error ValidationError: title: Path `title` is required., description: Path `description` is required., isActive: Path `isActive` is required.]
+[2023-12-14T15:19:51.286Z] [[31merror[39m] [URL: /api/v1.0/post] [Method: POST] [Message: Internal Server Error ValidationError: title: Path `title` is required., description: Path `description` is required., isActive: Path `isActive` is required.]
